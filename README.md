@@ -1,2 +1,2 @@
 # BT-bu-i-2
-tải note
+Folder Note, file Lê Bảo Thi
